@@ -1,0 +1,7 @@
+name: login-register
+region: us-east-1
+yamlVersion: 2
+frontend:
+    path: .
+    publish: .
+    subdomain: login-register
